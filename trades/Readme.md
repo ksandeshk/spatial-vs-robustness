@@ -1,4 +1,5 @@
 Folder trades : Contains code for adversarial training with PGD and TRADES for CIFAR-10 dataset
+cusp_cifar10.py : Implementation of CuSP algorithm for CIFAR10 dataset. Comment/Uncomment the code in main() to train with CuSP based on PGD or TRADES.
 train_trades_cifar10.py : Comment/Uncomment the code in main() to either adversarially train with PGD/TRADES/no adversarial training.
 models : This folder contains the various architecture models.
 
