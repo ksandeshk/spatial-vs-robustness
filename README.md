@@ -58,7 +58,7 @@ The algorithm performs a mix of <img src="https://render.githubusercontent.com/r
 If the code related to our work is useful for your work, kindly cite this work as given below:
 
 ```[bibtex]
-@inproceedings{kamath2021all,
+@inproceedings{kamath2021alltradeoffspatialadversarial,
   title={Can we have it all? On the Trade-off between Spatial and Adversarial Robustness of Neural Networks}, 
   author={Sandesh Kamath and Amit Deshpande and K V Subrahmanyam and Vineeth N Balasubramanian},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
